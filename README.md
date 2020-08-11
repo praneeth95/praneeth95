@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=praneeth95 alt=dummy/> </p>
 
-## I'm a Developer and an ardent Tech Lover!
+## I'm a Software Developer with a hunger to learn latest technologies!!!
 
 - 🔭 I’m currently working in INFOSYS as a Software Engineer...!!!
 - 🌱 I’m currently learning everything 🤣
